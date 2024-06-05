@@ -206,6 +206,6 @@ handala = 2024-06-03 10:38:40.107352
 sensayq = 2024-06-04 22:31:01.592232
 
 [Misc]
-redflagdomains = 2024-06-04
+redflagdomains = 2024-06-05
 reminder = 2024-05-31
 
