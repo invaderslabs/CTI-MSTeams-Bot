@@ -1,7 +1,7 @@
 [Rss]
 graham cluley = 2024-12-10T20:29:28
 threatpost = 2022-08-31T12:57:48
-krebs on security = 2024-12-04T14:08:45
+krebs on security = 2024-12-11T01:53:13
 dark reading = 2027-03-26T22:00:00
 we live security = 2023-07-19T09:30:16
 davinci forensics = 2024-11-28T11:55:07
@@ -17,7 +17,7 @@ fr-cert avis = 2024-12-10T12:37:43
 hacker news = 2024-12-10T15:57:00
 schneier on security = 2024-12-10T12:06:20
 ncsc = 674-05-09T12:19:35
-center of internet security = 2024-12-10T21:33:03
+center of internet security = 2024-12-11T01:35:12
 binary defense = 2024-12-10T22:20:10
 securelist = 2024-12-09T10:00:52
 checkpoint research = 2024-12-09T13:53:55
@@ -34,7 +34,7 @@ eu-enisa publications = 2024-11-19T16:08:16
 att = 2024-12-10T13:47:00
 microsoft sentinel = 2024-10-24T10:47:01
 ncc = 2024-02-22T16:35:43
-sans = 2024-12-10T18:39:33
+sans = 2024-12-11T02:00:01
 version = 2023-05-15T09:31:25
 redcanary = 2024-12-10T23:31:51
 malpedia = 2022-09-20T15:01:28
