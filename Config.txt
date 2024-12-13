@@ -6,7 +6,7 @@ dark reading = 2027-03-26T22:00:00
 we live security = 2023-07-19T09:30:16
 davinci forensics = 2024-11-28T11:55:07
 cisco = 2024-12-12T13:00:00
-information security magazine = 2024-12-13T09:45:00
+information security magazine = 2024-12-13T11:15:00
 google = 2022-10-12T12:00:00
 trend micro = 2024-12-13T00:00:00
 bleeping computer = 2024-12-12T22:35:24
@@ -298,7 +298,7 @@ chort = 2024-11-22 14:36:23.984561
 termite = 2024-12-11 21:07:57.060040
 safepay = 2024-12-11 23:13:54.811086
 argonauts = 2024-12-03 13:46:48.635720
-funksec = 2024-12-13 09:42:38.911366
+funksec = 2024-12-13 11:23:43.637586
 bluebox = 2024-12-11 12:46:01.557279
 
 [Misc]
